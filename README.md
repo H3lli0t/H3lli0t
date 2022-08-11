@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm H3lli0t</h1>
+<h1 align="center">Hi there 👋, I'm H3lli0t</h1>
 <h3 align="center">Cybersecurity student | CTF player</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/He2W0AQvZfsAAAAC/hacked-hack.gif">
-
-- 🌱 I’m currently learning **Cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
