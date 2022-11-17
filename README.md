@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm H3lli0t</h1>
-<h3 align="center">Cybersecurity Engineering Student | CTF Player</h3>
+<h3 align="center">Cybersecurity Engineering Student | Penetration Tester | CTF Player</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/He2W0AQvZfsAAAAC/hacked-hack.gif">
 
 <h3 align="left">Connect with me:</h3>
