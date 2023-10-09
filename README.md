@@ -2,7 +2,7 @@
 
 **`H3lli0t (CyberSec Engineering Student/Jr. Pentester/CTF Player)`**
 
-I am a Cybersecurity engineering student with a strong passion for Ethical Hacking and Offensive Security. I am an enthusiastic learner who actively seeks opportunities to enhance my skills in this field by actively participating in TryHackMe, HackTheBox, and various CTF platforms. I firmly believe that mastering cybersecurity means accepting that you will always remain a student in the world of cybersecurity.
+I am a Cybersecurity engineering student with a strong passion for Ethical Hacking and Offensive Security. I am an enthusiastic learner who actively seeks opportunities to enhance my skills in this field by actively participating in TryHackMe, HackTheBox, and various CTF platforms. I firmly believe that mastering cybersecurity is knowing that you will always remain a student in the world of cybersecurity.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/H3lli0t.png" alt="TryHackMe" height="60">  <img src="https://www.hackthebox.eu/badge/image/859520" alt= “HackTheBox” height="60">
 
