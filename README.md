@@ -92,8 +92,4 @@ I am a Cybersecurity engineering student with a strong passion for Ethical Hacki
 
   <h3>💻 GitHub Profile Stats</h3>
     <a href="https://github.com/H3lli0t/github-readme-stats"><img alt="H3lli0t's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=H3lli0t&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=40D1F5&icon_color=F0D722" height="192px"/></a>
-
-  <h3>🔥 Streak Stats</h3>
-    <a href="https://github.com/H3lli0t/github-readme-streak-stats">
-    <img alt="H3lli0t's streak" src="https://streak-stats.demolab.com/?user=H3lli0t&theme=react&hide_border=true"/></a>
     
